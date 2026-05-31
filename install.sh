@@ -20,7 +20,7 @@ set -euo pipefail
 # ────────────────────────────────────────────────────���─────────────────────────
 # Configuration
 # ──────────────────────────────────────────────────────────────────────────────
-ADF_REPO="https://github.com/sotatek-dev/adf.git"
+ADF_REPO="https://github.com/AEBC-HN/adf.git"
 ADF_HOME="${ADF_HOME:-$HOME/.adf}"
 ADF_BRANCH="main"
 CLAUDE_DIR="$HOME/.claude"
