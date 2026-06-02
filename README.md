@@ -35,7 +35,7 @@ ADF draws ideas and inspiration from several open-source projects and communitie
 Install once, use in every project:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/sotatek-dev/adf/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/AEBC-HN/adf/main/install.sh | bash
 ```
 
 Then for each project:
